@@ -1,0 +1,8 @@
+('Pavan Kumar Trivedi', '19', 'Kalabuaragi', 'o+ve')
+('Akshay Singodi', '20', 'Kalabuaragi', 'B +ve')
+ ('abhishek sahu', '21', 'kalaburgi', 'B+ve')
+ 
+ ('vishal', '20 ', 'bangalore', 'ab+')
+ ('Niraj', '20', 'Hyderabad', 'B+')
+ ('ayub', '20', 'vijayapur', 'o+ve')
+ 
